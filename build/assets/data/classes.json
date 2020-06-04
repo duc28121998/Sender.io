@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "CLC",
+        "students": [
+            {
+                "id": 3001180207,
+                "name": "Nguyen Ngoc Quy",
+                "classId": 1
+            }
+        ],
+        "schedules": [
+            {
+                "start_time": 1578278972,
+                "end_time": 1578279999,
+                "room": "A402"
+            }
+        ]
+    }
+]
